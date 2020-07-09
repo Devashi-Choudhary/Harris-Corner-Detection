@@ -11,3 +11,7 @@ Harris Corner Detector is a corner detection operator that is commonly used in c
 ![output](https://github.com/Devashi-Choudhary/Corner_Detection_InImages/blob/master/Results/chess_o.png)
 
 **Note :** For more information about harris corner detection, go through "Harris Corner Detection.pdf"
+
+# References
+
+This project is done as a part of college assignment.
